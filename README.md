@@ -15,6 +15,7 @@ The extension has been tested with OC 3.0.2.0 only, but should work with other O
 
 ## Change log
 * v1.0 (2018.08.21):
+    * Code improvements.
     * Added help text entries.
 * v1.0 (2018.08.01):
     * First release.
