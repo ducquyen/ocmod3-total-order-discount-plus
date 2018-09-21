@@ -44,6 +44,10 @@ The extension has been tested with OC 3.0.2.0 only, but should work with other O
 * Admin > Extensions > Extensions > Modifications > [Refresh]
 * Admin > Dashboard > [Developer Settings] > [Refresh]
 
+## Live demo
+* [Admin Demo](http://051c5f20.freevar.com/www/plus/admin/index.php?route=extension/total/order_discount)
+* [Front Demo](http://051c5f20.freevar.com/www/plus)
+
 ## Links
 * [Opencart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=35103)
 * [underr.space](https://underr.space/notes/projects/project-011.html)
