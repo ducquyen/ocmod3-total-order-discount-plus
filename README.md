@@ -49,8 +49,8 @@ Please feel free to contact me by email <underr.public@gmail.com> if you need an
 * Admin > Dashboard > [Developer Settings] > [Refresh]
 
 ## Live demo
-* [Admin Demo](http://plus.ocmod.unaux.com/plus/admin/index.php?route=extension/total/order_discount)
-* [Front Demo](http://plus.ocmod.unaux.com/plus)
+* [Admin Demo](http://plus.ocmod.unaux.com/admin/index.php?route=extension/total/order_discount)
+* [Front Demo](http://plus.ocmod.unaux.com)
 
 ## Links
 * [Opencart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=35103)
