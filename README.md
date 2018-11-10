@@ -2,7 +2,9 @@
 
 The Total Order Discount+ extension is for CMS Opencart 3. It allows to make a discount system based on sub-total price or products amount in the cart.
 
-The extension has been tested with OC 3.0.2.0 only, but should work with other OC 3.x versions.
+The extension has been tested with OC 3.0.2.0 and default template, but should work with other OC 3.x and default-compatable templates and can be easily modified for custom templates.
+
+Please feel free to contact me if you need any further information.
 
 ## Features
 * Allows to make discount system based on sub-total price or products amount in the cart.
@@ -14,6 +16,8 @@ The extension has been tested with OC 3.0.2.0 only, but should work with other O
 * Does not change original files - OCMOD modification.
 
 ## Change log
+* v1.0 (2018.11.10):
+    * Code improvements.
 * v1.0 (2018.08.21):
     * Code improvements.
     * Added help text entries.
@@ -46,12 +50,12 @@ The extension has been tested with OC 3.0.2.0 only, but should work with other O
 * Admin > Dashboard > [Developer Settings] > [Refresh]
 
 ## Live demo
-* [Admin Demo](http://051c5f20.freevar.com/www/plus/admin/index.php?route=extension/total/order_discount)
-* [Front Demo](http://051c5f20.freevar.com/www/plus)
+* [Admin Demo](http://plus.ocmod.unaux.com/plus/admin/index.php?route=extension/total/order_discount)
+* [Front Demo](http://plus.ocmod.unaux.com/plus)
 
 ## Links
 * [Opencart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=35103)
-* [underr.space](https://underr.space/notes/projects/project-011.html)
+* [underr.space](https://underr.space/notes/projects/project-011.html) - description in russian.
 
 ## License
 * [EULA](https://raw.githubusercontent.com/underr-ua/ocmod3-total-order-discount-plus/master/EULA.txt)
