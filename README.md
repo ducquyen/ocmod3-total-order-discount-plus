@@ -2,9 +2,9 @@
 
 The Total Order Discount+ extension is for CMS Opencart 3. It allows to make a discount system based on sub-total price or products amount in the cart.
 
-The extension has been tested with OC 3.0.2.0 and default template, but should work with other OC 3.x and default-compatable templates and can be easily modified for custom templates.
+The extension has been tested with OC 3.0.2.0 and default template, but should work with other OC 3.x and default-compatable templates and can be easily modified for newer OC versions and custom templates.
 
-Please feel free to contact me by email <underr.public@gmail.com> or through support form on the addon page on Opencart Marketplace (see links below).
+Please feel free to contact me by email <underr.public@gmail.com> or through support form and comments on Opencart Marketplace (see links below).
 
 ## Features
 * Allows to make discount system based on sub-total price or product quantity in the cart.
