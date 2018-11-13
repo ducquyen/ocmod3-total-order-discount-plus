@@ -10,7 +10,7 @@ Please feel free to contact me by email <underr.public@gmail.com> or through sup
 * Allows to make discount system based on sub-total price or product quantity in the cart.
 * Percentage or fixed discount type.
 * Low order price/quantity fee.
-* Multilangual - EN/UA/RU.
+* Multilangual - EN/UA/RU (new languages can be easily added).
 * Does not change original files - OCMOD modification.
 
 ## Change log
