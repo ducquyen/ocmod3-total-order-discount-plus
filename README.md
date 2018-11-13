@@ -4,19 +4,18 @@ The Total Order Discount+ extension is for CMS Opencart 3. It allows to make a d
 
 The extension has been tested with OC 3.0.2.0 and default template, but should work with other OC 3.x and default-compatable templates and can be easily modified for custom templates.
 
-Please feel free to contact me by email <underr.public@gmail.com> if you need any further information.
+Please feel free to contact me by email <underr.public@gmail.com> or through support form on the addon page on Opencart Marketplace (see links below).
 
 ## Features
-* Allows to make discount system based on sub-total price or products amount in the cart.
-* Discount can be one of two types - percentage or fixed.
-* "Discount" appears in the order only when applied.
-* Negative discount as surcharge or fee for low order price/quantity.
-* Auto sort discount table in extension panel.
+* Allows to make discount system based on sub-total price or product quantity in the cart.
+* Percentage or fixed discount type.
+* Low order price/quantity fee.
 * Multilangual - EN/UA/RU.
 * Does not change original files - OCMOD modification.
 
 ## Change log
-* v1.0 (2018.11.10):
+* v1.1 (2018.11.12):
+    * Bug fixes.
     * Code improvements.
 * v1.0 (2018.08.21):
     * Code improvements.
