@@ -7,11 +7,11 @@ The extension has been tested with OC 3.0.2.0 and default template, but should w
 Please feel free to contact me by email <underr.public@gmail.com> or through support form and comments on Opencart Marketplace (see links below).
 
 ## Features
-* Allows to make discount system based on sub-total price or product quantity in the cart.
+* Discount system based on sub-total price or product quantity in the cart.
 * Percentage or fixed discount type.
 * Low order price/quantity fee.
-* Multilangual - EN/UA/RU (new languages can be easily added).
-* Does not change original files - OCMOD modification.
+* Multilingual - EN/UA/RU (new languages can be easily added).
+* OCMOD - does not change original files.
 
 ## Change log
 * v1.1 (2018.11.12):
@@ -49,8 +49,8 @@ Please feel free to contact me by email <underr.public@gmail.com> or through sup
 * Admin > Dashboard > [Developer Settings] > [Refresh]
 
 ## Live demo
-* [Admin Demo](http://plus.ocmod.unaux.com/admin/index.php?route=extension/total/order_discount)
-* [Front Demo](http://plus.ocmod.unaux.com)
+* [Admin Demo](https://oc.underr.thats.im/d1/admin/index.php?route=extension/total/order_discount)
+* [Front Demo](https://oc.underr.thats.im/d1/)
 
 ## Links
 * [Opencart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=35103)
