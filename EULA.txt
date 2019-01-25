@@ -1,6 +1,6 @@
 End-User License Agreement (EULA) of Total Order Discount+
 
-Last updated: 2018.09.21
+Last updated: 2019.01.25
 
 This End-User License Agreement ("EULA") is a legal agreement between the end
 user (the "Licensee" or "you") and Andrii Burkatskyi (the "Licensor")
@@ -39,7 +39,7 @@ Definitions
 Total Order Discount+ (the "Software") means the Total Order Discount+ software
 and includes:
 
-1. all its components developed and licensed by Burkatsky Andrii;
+1. all its components developed and licensed by the Licensor;
 2. any revisions, updates and/or upgrades thereto;
 3. anything in any form whatsoever intended to be used with or in
    conjunction with the Total Order Discount+;
