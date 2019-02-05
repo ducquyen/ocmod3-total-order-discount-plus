@@ -31,30 +31,35 @@ Please feel free to contact me by email <underr.public@gmail.com> or through sup
 * Admin > Dashboard > [Developer Settings] > [Refresh].
 
 ## How to configure
-* Admin > Extensions > Extensions > Order Totals > [underr] Total Order Discount+ > [Install].
-* Admin > Extensions > Extensions > Order Totals > [underr] Total Order Discount+ - [Edit].
-    * Set the desired parameters.
-* Admin > Extensions > Extensions > Order Totals.
+* Admin > Extensions > Extensions > Order Totals > [underr] Total Order Discount+ > [Install]
+* Admin > Extensions > Extensions > Order Totals > [underr] Total Order Discount+ - [Edit]
+    * Set the desired parameters
+* Admin > Extensions > Extensions > Order Totals
     * Set the correct sort order values for the modules:
-        1. All modules that are subject to a discount must be located before the Sub-Total module.
-        2. The Sub-Total module.
-        3. The Total Order Discount+ module.
-        4. The Total module.
+        1. All modules that are subject to a discount must be located before Sub-Total module
+        2. Sub-Total module
+        3. Total Order Discount+ module
+        4. Total module
 
 ## How to uninstall
 * Make backup
 * Open Admin Panel
+* Admin > Extensions > Extensions > Order Totals > [underr] Total Order Discount+ > [Uninstall]
 * Admin > Extensions > Extensions > Installer > Install History > find the extension file > [Uninstall]
 * Admin > Extensions > Extensions > Modifications > [Refresh]
 * Admin > Dashboard > [Developer Settings] > [Refresh]
 
-## Live demo
-* [Admin Demo](https://oc.underr.thats.im/d1/admin/index.php?route=extension/total/order_discount)
-* [Front Demo](https://oc.underr.thats.im/d1/)
+## Live demo [Main]:
+  * [Admin Demo](http://ocmod.freevar.com/oc3020/a/admin/index.php?route=extension/total/order_discount)
+  * [Front Demo](http://ocmod.freevar.com/oc3020/a)
+
+## Live demo [Alternative]:
+  * [Admin Demo](https://oc3020.underr.thats.im/a/admin/index.php?route=extension/total/order_discount)
+  * [Front Demo](https://oc3020.underr.thats.im/a)
 
 ## Links
 * [Opencart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=35103)
-* [underr.space](https://underr.space/notes/projects/project-011.html) - description in russian.
+* [underr.space](https://underr.space/tag:opencart) - Descriptions for all of my OpenCart extensions in Russian.
 
 ## License
 * [End-User License Agreement](https://raw.githubusercontent.com/underr-ua/ocmod3-total-order-discount-plus/master/EULA.txt)
