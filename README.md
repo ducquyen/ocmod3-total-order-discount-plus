@@ -1,27 +1,27 @@
 # Total Order Discount+
 
-The Total Order Discount+ extension is for CMS Opencart 3. It allows to make a discount system based on sub-total price or products amount in the cart.
+The Total Order Discount+ extension is for CMS Opencart 3. It allows to make a discount system based on sub-total price or amount of products in the cart.
 
 The extension has been tested with OC 3.0.2.0 and default template, but should work with other OC 3.x and default-compatable templates and can be easily modified for newer OC versions and custom templates.
 
 Please feel free to contact me by email <underr.public@gmail.com> or through support form and comments on Opencart Marketplace (see links below).
 
 ## Features
-* Discount system based on sub-total price or product quantity in the cart.
-* Percentage or fixed discount type.
-* Low order price/quantity fee.
-* Multilingual - EN/UA/RU (new languages can be easily added).
-* OCMOD - does not change original files.
+* Discount system based on sub-total price or product quantity in the cart
+* Percentage or fixed discount type
+* Low order price/quantity fee
+* Multilingual - EN/UA/RU (new languages can be easily added)
+* OCMOD - does not change original files
 
 ## Change log
 * v1.1 (2018.11.12):
-    * Bug fixes.
-    * Code improvements.
+    * Bug fixes
+    * Code improvements
 * v1.0 (2018.08.21):
-    * Code improvements.
-    * Added help text entries.
+    * Code improvements
+    * Added help text entries
 * v1.0 (2018.08.01):
-    * First release.
+    * First release
 
 ## How to install
 * To begin, make backup, really!
@@ -33,9 +33,9 @@ Please feel free to contact me by email <underr.public@gmail.com> or through sup
 ## How to configure
 * Admin > Extensions > Extensions > Order Totals > [underr] Total Order Discount+ > [Install]
 * Admin > Extensions > Extensions > Order Totals > [underr] Total Order Discount+ - [Edit]
-    * Set the desired parameters
+    * Set parameters
 * Admin > Extensions > Extensions > Order Totals
-    * Set the correct sort order values for the modules:
+    * Set correct sort order values for the modules:
         1. All modules that are subject to a discount must be located before Sub-Total module
         2. Sub-Total module
         3. Total Order Discount+ module

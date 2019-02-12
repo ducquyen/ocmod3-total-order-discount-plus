@@ -1,6 +1,17 @@
-# Total Order Discount+ v1.0 (https://github.com/underr-ua/ocmod3-total-order-discount-plus)
-# Copyright 2018 Burkatskyi Andrii aka underr
-# EULA - https://raw.githubusercontent.com/underr-ua/ocmod3-total-order-discount-plus/master/EULA.txt
+#  * Total Order Discount+.
+#  *
+#  * The Total Order Discount+ extension is for CMS Opencart 3.x.
+#  * It allows to make a discount system based on sub-total price or amount of products in the cart.
+#  *
+#  * @author		Andrii Burkatskyi aka underr underr.ua@gmail.com
+#  * @copyright	Copyright (c) 2018-2019 Andrii Burkatskyi
+#  * @license		https://raw.githubusercontent.com/underr-ua/ocmod3-total-order-discount-plus/master/EULA.txt End-User License Agreement
+#  *
+#  * @version		1.1
+#  *
+#  * @see			  https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=35103
+#  * @see			  https://underr.space/notes/projects/project-011.html
+#  * @see			  https://github.com/underr-ua/ocmod3-total-order-discount-plus
 
 zip=$(shell basename `pwd`).ocmod.zip
 
