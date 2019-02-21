@@ -7,7 +7,7 @@
 #  * @copyright	Copyright (c) 2018-2019 Andrii Burkatskyi
 #  * @license		https://raw.githubusercontent.com/underr-ua/ocmod3-total-order-discount-plus/master/EULA.txt End-User License Agreement
 #  *
-#  * @version		1.1
+#  * @version		2.0
 #  *
 #  * @see			  https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=35103
 #  * @see			  https://underr.space/notes/projects/project-011.html

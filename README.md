@@ -1,34 +1,41 @@
 # Total Order Discount+
 
-The Total Order Discount+ extension is for CMS Opencart 3. It allows to make a discount system based on sub-total price or amount of products in the cart.
+The Total Order Discount+ extension is for CMS Opencart 3. It allows to create a discount system based on sub-total price or quantity of products in the cart.
 
-The extension has been tested with OC 3.0.2.0 and default template, but should work with other OC 3.x and default-compatable templates and can be easily modified for newer OC versions and custom templates.
+The extension has been tested with OC 3.0.2.0/3.0.3.1 and default template, but should work with other OC 3.x and default-compatable templates and can be easily modified for newer OC versions and custom templates.
 
 Please feel free to contact me by email <underr.public@gmail.com> or through support form and comments on Opencart Marketplace (see links below).
 
 ## Features
-* Discount system based on sub-total price or product quantity in the cart
-* Percentage or fixed discount type
-* Low order price/quantity fee
-* Multilingual - EN/UA/RU (new languages can be easily added)
+* Allows to create a discount system based on sub-total price or quantity of products in the cart
+* Allows to use one of type of discounts - percentage or fixed amount
+* Allows to set fees for low order price or quantity
+* Allows to apply (or disable) discounts and fees for certain categories only
+  * In case of the cart contains products with and without discount, a info message will be displayed
+* Allows to set tax class for discounts and fees
+* Multilingual frontend
 * OCMOD - does not change original files
 
 ## Change log
+* v2.0 (2019.02.21):
+  * Added included/excluded categories list
+  * Tax class for discounts and fees
+  * Code improvements
 * v1.1 (2018.11.12):
-    * Bug fixes
-    * Code improvements
+  * Bug fixes
+  * Code improvements
 * v1.0 (2018.08.21):
-    * Code improvements
-    * Added help text entries
+  * Code improvements
+  * Added help text entries
 * v1.0 (2018.08.01):
-    * First release
+  * First release
 
 ## How to install
 * To begin, make backup, really!
 * Open Admin Panel.
 * Admin > Extensions > Extensions > Installer > [Upload]: open the extension file.
-* Admin > Extensions > Extensions > Modifications > [Refresh].
-* Admin > Dashboard > [Developer Settings] > [Refresh].
+* Admin > Extensions > Extensions > Modifications > [Refresh]
+* Admin > Dashboard > [Developer Settings] > [Refresh]
 
 ## How to configure
 * Admin > Extensions > Extensions > Order Totals > [underr] Total Order Discount+ > [Install]
