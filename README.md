@@ -18,7 +18,7 @@ Please feel free to contact me by email <underr.public@gmail.com> or through sup
 
 ## Change log
 * v2.1 (2019.07.03):
-  * Fixed bug: Discount by quatity
+  * Fixed bug: Discount by quantity
   * Code improvements
 * v2.0 (2019.02.21):
   * Added included/excluded categories list
