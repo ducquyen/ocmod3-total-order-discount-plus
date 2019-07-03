@@ -17,6 +17,9 @@ Please feel free to contact me by email <underr.public@gmail.com> or through sup
 * OCMOD - does not change original files
 
 ## Change log
+* v2.1 (2019.07.03):
+  * Fixed bug: Discount by quatity
+  * Code improvements
 * v2.0 (2019.02.21):
   * Added included/excluded categories list
   * Tax class for discounts and fees
