@@ -1,22 +1,22 @@
 # Total Order Discount+
 
-The Total Order Discount+ extension is for CMS Opencart 3. It allows to create a discount system based on sub-total price or quantity of products in the cart.
+The Total Order Discount+ extension is for CMS Opencart 3.x It allows to create a flexible discount system based on total price or product quantity in the cart.
 
-The extension has been tested with OC 3.0.2.0/3.0.3.1 and default template, but should work with other OC 3.x and default-compatable templates and can be easily modified for newer OC versions and custom templates.
-
-Please feel free to contact me by email <underr.public@gmail.com> or through support form and comments on Opencart Marketplace (see links below).
+Please feel free to contact me through the "GET SUPPORT" form and comments on Opencart Marketplace (see links below).
 
 ## Features
-* Allows to create a discount system based on sub-total price or quantity of products in the cart
-* Allows to use one of type of discounts - percentage or fixed amount
-* Allows to set fees for low order price or quantity
+* Allows to create a flexible discount system based on total price or product quantity in the cart.
+* Allows to use one of the types of discounts - percentage or fixed amount
+* Allows to set fees(extra pay) for low total order price or quantity
 * Allows to apply (or disable) discounts and fees for certain categories only
-  * In case of the cart contains products with and without discount, a info message will be displayed
-* Allows to set tax class for discounts and fees
+  * If the cart contains products with and without a discount at the same time, discounted products will be marked with asterisk and an info message will be displayed.
 * Multilingual frontend
 * OCMOD - does not change original files
 
 ## Change log
+* v2.2 (2019.09.20):
+  * Fixed wrong calculation of discount including tax/VAT
+  * Fixed info message behavior
 * v2.0 (2019.02.21):
   * Added included/excluded categories list
   * Tax class for discounts and fees
@@ -60,13 +60,9 @@ Please feel free to contact me by email <underr.public@gmail.com> or through sup
   * [Admin Demo](http://ocmod.freevar.com/oc3020/a/admin/index.php?route=extension/total/order_discount)
   * [Front Demo](http://ocmod.freevar.com/oc3020/a)
 
-## Live demo [Alternative]:
-  * [Admin Demo](https://oc3020.underr.thats.im/a/admin/index.php?route=extension/total/order_discount)
-  * [Front Demo](https://oc3020.underr.thats.im/a)
-
 ## Links
 * [Opencart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=35103)
-* [underr.space](https://underr.space/tag:opencart) - Descriptions for all of my OpenCart extensions in Russian.
+* [underr.space](https://underr.space/notes/projects/project-011.html) - Russian description.
 
 ## License
 * [End-User License Agreement](https://raw.githubusercontent.com/underr-ua/ocmod3-total-order-discount-plus/master/EULA.txt)
