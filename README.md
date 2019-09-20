@@ -56,7 +56,7 @@ Please feel free to contact me through the "GET SUPPORT" form and comments on Op
 * Admin > Extensions > Extensions > Modifications > [Refresh]
 * Admin > Dashboard > [Developer Settings] > [Refresh]
 
-## Live demo [Main]:
+## Live demo:
   * [Admin Demo](http://ocmod.freevar.com/oc3020/a/admin/index.php?route=extension/total/order_discount)
   * [Front Demo](http://ocmod.freevar.com/oc3020/a)
 
