@@ -4,7 +4,7 @@ The Total Order Discount+ extension is for CMS Opencart 3.x It allows to create 
 
 Please feel free to contact me through the "GET SUPPORT" form and comments on Opencart Marketplace (see links below).
 
-## Features
+## Features 
 * Allows to create a flexible discount system based on total price or product quantity in the cart.
 * Allows to use one of the types of discounts - percentage or fixed amount
 * Allows to set fees(extra pay) for low total order price or quantity
