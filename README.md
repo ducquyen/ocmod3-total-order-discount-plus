@@ -17,6 +17,9 @@ Please feel free to contact me through the "GET SUPPORT" form and comments on Op
 * v2.2 (2019.09.20):
   * Fixed wrong calculation of discount including tax/VAT
   * Fixed info message behavior
+* v2.1 (2019.07.03):
+  * Fixed bug: Discount by quantity
+  * Code improvements
 * v2.0 (2019.02.21):
   * Added included/excluded categories list
   * Tax class for discounts and fees
