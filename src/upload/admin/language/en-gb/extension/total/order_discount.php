@@ -25,6 +25,7 @@ $_['error_discount_name'] = 'Enter discount name';
 $_['error_fee_name'] = 'Enter fee name';
 $_['error_discount_warning'] = 'Enter discount message';
 $_['error_fee_warning'] = 'Enter fee message';
+$_['error_customer_account'] = 'Choose at least one account type';
 
 // Total Order Discount Entry text
 $_['entry_tab_main'] = 'Main options';
@@ -33,6 +34,9 @@ $_['entry_tab_lang'] = 'Language options';
 $_['entry_tab_about'] = 'About';
 
 $_['entry_status'] = 'Status';
+$_['entry_customer_account'] = 'Accounts';
+$_['entry_registered'] = 'Registered';
+$_['entry_guest'] = 'Guests';
 $_['entry_base'] = 'Based on';
 $_['entry_type'] = 'Discount Type';
 $_['entry_group'] = 'Customer Group';
@@ -49,11 +53,12 @@ $_['entry_fee_warning'] = 'Fee Warning Message';
 $_['entry_sort_order'] = 'Sort Order';
 
 // Total Order Discount+ help text
+$_['help_customer_account'] = 'Customer accounts that allowed for discounts';
 $_['help_base'] = 'Discounts will based on total price or quantity of products in the cart';
 $_['help_type'] = 'Discount type can be percentage or fixed amount';
 $_['help_group'] = 'Customer group';
 $_['help_key'] = 'Total price or quantity products in the cart for get a discount or add an extra charge';
-$_['help_value'] = 'Discount/Fee Value (Percentage Or Fixed Amount). Use negative value for fee';
+$_['help_value'] = 'Discount/Fee value (percentage or fixed amount). Use negative value for fee';
 $_['help_discounts'] = 'Discount list';
 $_['help_cats_type'] = 'Sets how to handle products from the categories list below (include or exclude in discount calculation)';
 $_['help_cats_list'] = 'Products from these categories will be handled according to the value of the above parameter';

@@ -25,6 +25,7 @@ $_['error_discount_name'] = 'Введіть назву знижки';
 $_['error_fee_name'] = 'Введіть назву комісії';
 $_['error_discount_warning'] = 'Введіть повідомлення про знижку';
 $_['error_fee_warning'] = 'Введіть повідомлення про комісію';
+$_['error_customer_account'] = 'Вкажіть хоча б один тип облікових записів';
 
 // Total Order Discount Entry text
 $_['entry_tab_main'] = 'Основні параметри';
@@ -33,6 +34,9 @@ $_['entry_tab_text'] = 'Мовні опції';
 $_['entry_tab_about'] = 'Посилання';
 
 $_['entry_status'] = 'Статус';
+$_['entry_customer_account'] = 'Облікові записи';
+$_['entry_registered'] = 'Зареєстровані';
+$_['entry_guest'] = 'Гості';
 $_['entry_base'] = 'Залежність';
 $_['entry_type'] = 'Тип';
 $_['entry_group'] = 'Група користувачів';
@@ -49,6 +53,7 @@ $_['entry_fee_warning'] = 'Повідомлення про комісію';
 $_['entry_sort_order'] = 'Порядок сортування';
 
 // Total Order Discount+ help text
+$_['help_customer_account'] = 'Типи користувацьких облікових записів, для яких діють знижки';
 $_['help_base'] = 'Підставою для знижки є загальна ціна або кількість товарів у кошику';
 $_['help_type'] = 'Знижка може бути відсотковою або фіксованою';
 $_['help_key'] = 'Ціна/кількість, з/до якої діє знижка/комісія';
