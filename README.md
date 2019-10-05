@@ -1,21 +1,29 @@
 # Total Order Discount+
 
-The Total Order Discount+ extension is for CMS Opencart 3.x It allows to create a flexible discount system based on total price or product quantity in the cart.
+The Total Order Discount+ extension is for CMS Opencart 3.x It allows to create a flexible discount system based on sub-total price or product quantity in the cart.
 
 Please feel free to contact me through the "GET SUPPORT" form and comments on Opencart Marketplace (see links below).
 
 ## Features
-* Allows to create a flexible discount system based on total price or product quantity in the cart.
+* Allows to create a flexible discount system based on sub-total price or product quantity in the cart.
 * Allows to use one of the types of discounts - percentage or fixed amount
-* Allows to set fees(extra pay) for low total order price or quantity
-* Allows to apply (or disable) discounts and fees for certain categories only
-  * If the cart contains products with and without a discount at the same time, discounted products will be marked with asterisk and an info message will be displayed.
+* Allows to set extra charge (fee) for insufficient sub-total order price or insufficient product quantity in the cart.
+* Allows to apply (or disable) discounts and fees for certain product categories only
+  * If in the cart are products with and without a discount/fee at the same time, that products will be marked with asterisk and an info message will be displayed
+* Allows to apply discounts/fees for certain accounts only (registered accounts and/or guests)
+* Allows to choose customer group for each certain discount rule
 * Multilingual frontend
 * OCMOD - does not change original files
 
 ## Change log
+* v2.3 (2019.10.05):
+  * Added ability to set account types that is allowed for discounts (registered and/or guest accounts)
+  * Added ability to set customer group for each certain discount rule
+  * Added ability to choose tax/VAT calculation method (certain tax class or proportional distribution)
+  * Changing the way to determine the reason for the discount from the total amount (price + tax/VAT) to the sub-total amount (price w/o tax/VAT)
+  * Code improvements
 * v2.2 (2019.09.20):
-  * Fixed wrong calculation of discount including tax/VAT
+  * Fix: wrong calculation of discount including tax/VAT
   * Fixed info message behavior
 * v2.1 (2019.07.03):
   * Fixed bug: Discount by quantity
