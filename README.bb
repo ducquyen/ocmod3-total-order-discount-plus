@@ -56,14 +56,6 @@ Please feel free to contact me through the "GET SUPPORT" form or comments.
 [b]How to configure[/b]
 * Admin > Extensions > Extensions > Order Totals > [underr] Total Order Discount+ > [Install]
 * Admin > Extensions > Extensions > Order Totals > [underr] Total Order Discount+ - [Edit]
---  Set parameters
-* Admin > Extensions > Extensions > Order Totals
--- Set correct sort order values for the modules:
----- All modules that are subject to a discount must be located before Sub-Total module
----- Sub-Total module
----- Total Order Discount+ module
----- Taxes, etc
----- Total module
 
 [b]How to uninstall[/b]
 * Make backup
