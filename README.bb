@@ -71,7 +71,7 @@ Please feel free to contact me through the "GET SUPPORT" form or comments.
 
 [b]Links[/b]
 * [url=https://github.com/underr-ua/ocmod3-total-order-discount-plus]GitHub[/url]
-* [url=https://underr.space/notes/projects/project-011.html]underr.space[/url] - Russian description.
+* [url=https://underr.space/notes/projects/project-011.html]underr.space[/url] - Extension homepage
 
 [b]License[/b]
 * [url=https://raw.githubusercontent.com/underr-ua/ocmod3-total-order-discount-plus/master/EULA.txt]End-user License Agreement[/url]

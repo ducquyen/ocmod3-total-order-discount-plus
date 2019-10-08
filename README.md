@@ -73,7 +73,7 @@ Please feel free to contact me through the "GET SUPPORT" form and comments on Op
 
 ## Links
 * [Opencart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=35103)
-* [underr.space](https://underr.space/notes/projects/project-011.html) - Russian description.
+* [underr.space](https://underr.space/notes/projects/project-011.html) - Extension homepage
 
 ## License
 * [End-User License Agreement](https://raw.githubusercontent.com/underr-ua/ocmod3-total-order-discount-plus/master/EULA.txt)
