@@ -74,7 +74,7 @@ Please feel free to contact me through the <a href="https://www.opencart.com/ind
   * [Front Demo](http://ocmod.freevar.com/oc3020/a)
 
 ## Links
-* [Homepage](https://underr.space/notes/projects/project-011.html) - Extension homepage
+* [Homepage](https://underr.space/notes/projects/project-011.html)
 * [Opencart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=35103)
 
 ## License
