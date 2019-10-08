@@ -1,4 +1,4 @@
-The Total Order Discount+ extension is for CMS Opencart 3.x It allows to create a flexible discount system based on the subtotal price or product quantity in the cart.
+The Total Order Discount+ extension is for CMS Opencart 3.x It allows to create a flexible discount system based on subtotal price or product quantity in the cart.
 
 Please feel free to contact me through the "GET SUPPORT" form or comments.
 
