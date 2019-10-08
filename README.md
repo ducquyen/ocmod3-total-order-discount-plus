@@ -15,6 +15,7 @@ Please feel free to contact me through the "GET SUPPORT" form and comments on Op
 * Lists of allowed and disallowed product categories.
 * Target customers type (registered accounts and/or guests).
 * Target customers group for each discount rate
+* Start and end date for each discount rate
 * Customizable warning messages and names for discount and fee (multilanguage).
 * Can set a separate tax class for discounts.
 * OCMOD - doesn't change OpenCart core files.

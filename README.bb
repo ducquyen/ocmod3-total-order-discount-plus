@@ -1,25 +1,32 @@
-The Total Order Discount+ extension is for CMS Opencart 3.x It allows to create a flexible discount system based on sub-total price or product quantity in the cart.
+The Total Order Discount+ extension is for CMS Opencart 3.x It allows to create a flexible discount system based on the subtotal price or product quantity in the cart.
 
 Please feel free to contact me through the "GET SUPPORT" form or comments.
 
 [b]Features[/b]
-* Allows to create a flexible discount system based on sub-total price or product quantity in the cart.
-* Allows to use one of the types of discounts - percentage or fixed amount
-* Allows to set extra charge (fee) for insufficient sub-total order price or insufficient product quantity in the cart.
-* Allows to apply (or disable) discounts and fees for certain product categories only
--- If in the cart are products with and without a discount/fee at the same time, that products will be marked with asterisk and an info message will be displayed
-* Allows to apply discounts/fees for certain accounts only (registered accounts and/or guests)
-* Allows to choose customer group for each certain discount rule
-* Multilingual frontend
-* OCMOD - does not change original files
+* A discount system based on one of the following values:
+-- Subtotal price (sums up product prices before tax/VAT).
+-- Total price (sums up product prices after tax/VAT).
+-- Product quantity in the cart.
+* Unlimited discount rates.
+* Percentage or fixed amount discount type.
+* Extra charges (fees) can be used along discounts.
+* Lists of allowed and disallowed product categories.
+* Target customers type (registered accounts and/or guests).
+* Target customers group for each discount rate
+* Start and end date for each discount rate
+* Customizable warning messages and names for discount and fee (multilanguage).
+* Can set a separate tax class for discounts.
+* OCMOD - doesn't change OpenCart core files.
 
 [b]History[/b]
-* v2.3 (2019.10.05):
--- Added ability to set account types that is allowed for discounts (registered and/or guest accounts)
--- Added ability to set customer group for each discount rule
--- Added ability to choose tax/VAT calculation method (certain tax class or proportional distribution)
--- Changing the way to determine the reason for the discount from the total amount (price + tax/VAT) to the sub-total amount (price w/o tax/VAT)
--- Code improvements
+* v3.0 (2019.10.06):
+-- Added ability to set target customers type
+-- Added ability to set customer group for each certain discount rule
+-- Added ability to set a separate tax/VAT class for discounts
+-- Added ability to set type of subtotal calculation - sum up product prices before or after tax/VAT
+-- Added ability to use two lists of product categories - allowed and disallowed for discounts
+-- Code and usability improvements
+-- Text corrections
 * v2.2 (2019.09.20):
 -- Fixed wrong calculation of discount including tax/VAT
 -- Fixed info message behavior
@@ -49,7 +56,7 @@ Please feel free to contact me through the "GET SUPPORT" form or comments.
 [b]How to configure[/b]
 * Admin > Extensions > Extensions > Order Totals > [underr] Total Order Discount+ > [Install]
 * Admin > Extensions > Extensions > Order Totals > [underr] Total Order Discount+ - [Edit]
-    * Set parameters
+--  Set parameters
 * Admin > Extensions > Extensions > Order Totals
 -- Set correct sort order values for the modules:
 ---- All modules that are subject to a discount must be located before Sub-Total module
