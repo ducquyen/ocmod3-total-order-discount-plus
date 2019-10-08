@@ -56,7 +56,7 @@ $_['entry_discount_warning'] = 'Discount Warning Message';
 $_['entry_fee_warning'] = 'Fee Warning Message';
 
 // Total Order Discount+ help text
-$_['help_customer_account'] = 'Allowed customer accounts';
+$_['help_customer_account'] = 'Target customers that allowed to grant discounts';
 $_['help_base'] = 'The reason for granting a discount are subtotal price or product quantity in the cart';
 $_['help_amount'] = 'Subtotal amount of product prices to grant a discount calculates with or without tax/VAT';
 $_['help_type'] = 'Percentage discount or fixed discount value';
