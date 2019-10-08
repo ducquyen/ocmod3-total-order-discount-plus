@@ -15,7 +15,7 @@ Please feel free to contact me through the "GET SUPPORT" form and comments on Op
 * Lists of allowed and disallowed product categories.
 * Target customers type (registered accounts and/or guests).
 * Target customers group for each discount rate
-* Start and end date for each discount rate
+* Date range for each discount rate
 * Customizable warning messages and names for discount and fee (multilanguage).
 * Can set a separate tax class for discounts.
 * OCMOD - doesn't change OpenCart core files.
@@ -23,10 +23,10 @@ Please feel free to contact me through the "GET SUPPORT" form and comments on Op
 ## Change log
 * v3.0 (2019.10.06):
   * Added ability to set target customers type
-  * Added ability to set customer group for each certain discount rule
-  * Added ability to set a separate tax/VAT class for discounts
+  * Added ability to set customer group and date range for each discount rate
+  * Added ability to set a particular tax/VAT class for discounts
   * Added ability to set type of subtotal calculation - sum up product prices before or after tax/VAT
-  * Added ability to use two lists of product categories - allowed and disallowed for discounts
+  * Added ability to use black/white lists of product categories
   * Code and usability improvements
   * Text corrections
 * v2.2 (2019.09.20):
