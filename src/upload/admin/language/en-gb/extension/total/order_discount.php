@@ -67,7 +67,7 @@ $_['help_group'] = 'Target customers group';
 $_['help_white_list'] = 'List of product categories allowed to grant discounts and fees';
 $_['help_black_list'] = 'List of product categories disallowed to grant discounts and fees';
 $_['help_list_processing'] = 'The rule for processing product categories list';
-$_['help_tax_class'] = 'Particular tax class for discounts';
+$_['help_tax_class'] = 'Particular tax class for discounts and fees';
 
 // Total Order Discount+ main text
 $_['text_extension'] = 'Extensions';
