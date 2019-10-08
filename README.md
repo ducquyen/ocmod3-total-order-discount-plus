@@ -58,12 +58,14 @@ Please feel free to contact me through the "GET SUPPORT" form and comments on Op
 ## How to configure
 * Admin > Extensions > Extensions > Order Totals > [underr] Total Order Discount+ > [Install]
 * Admin > Extensions > Extensions > Order Totals > [underr] Total Order Discount+ - [Edit]
+* Notes:
+  * The black list has priority, therefore, if a product is stored in a category that is contained in both lists, the product will be ignored
 
 ## How to uninstall
 * Make backup
 * Open Admin Panel
 * Admin > Extensions > Extensions > Order Totals > [underr] Total Order Discount+ > [Uninstall]
-* Admin > Extensions > Installer > Install History > find the extension file > [Uninstall]
+* Admin > Extensions > Installer > Install History > total-order-discount-plus.ocmod.zip > [Uninstall]
 * Admin > Extensions > Modifications > [Refresh]
 * Admin > Dashboard > [Developer Settings] > [Refresh]
 
