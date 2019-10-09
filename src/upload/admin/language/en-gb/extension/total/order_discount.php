@@ -28,11 +28,11 @@ $_['error_fee_warning'] = 'Enter fee message';
 $_['error_customer_account'] = 'Choose at least one account type';
 
 // Total Order Discount Entry text
-$_['entry_tab_main'] = 'General';
+$_['entry_tab_general'] = 'General Settings';
 $_['entry_tab_discount'] = 'Discounts';
 $_['entry_tab_cat'] = 'Categories';
 $_['entry_tab_lang'] = 'Languages';
-$_['entry_tab_about'] = 'Support';
+$_['entry_tab_support'] = 'Support';
 
 $_['entry_status'] = 'Status';
 $_['entry_customer_account'] = 'Accounts';
