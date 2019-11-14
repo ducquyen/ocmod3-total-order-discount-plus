@@ -22,7 +22,7 @@ $_['error_discount_name'] = 'Введіть найменування для зн
 $_['error_fee_name'] = 'Введіть найменування для комісії';
 $_['error_discount_warning'] = 'Повідомлення про присутність у корзині товарів зі знижкою';
 $_['error_fee_warning'] = 'Повідомлення про присутність у кошику товарів з додатковою комісією';
-$_['error_customer_account'] = 'Дозвольте хоча б один тип облікових записів';
+$_['error_customer_account'] = 'Додайте хоча б один тип облікових записів';
 
 // Total Order Discount Entry text
 $_['entry_tab_general'] = 'Основні параметри';
@@ -32,6 +32,7 @@ $_['entry_tab_lang'] = 'Мовні опції';
 $_['entry_tab_support'] = 'Посилання';
 
 $_['entry_status'] = 'Статус';
+$_['entry_store'] = 'Магазин';
 $_['entry_customer_account'] = 'Облікові записи';
 $_['entry_sort_order'] = 'Порядок сортування';
 $_['entry_base'] = 'Підстава для знижки';

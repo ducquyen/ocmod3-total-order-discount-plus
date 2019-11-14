@@ -22,7 +22,7 @@ $_['error_discount_name'] = 'Enter discount name';
 $_['error_fee_name'] = 'Enter fee name';
 $_['error_discount_warning'] = 'Enter discount message';
 $_['error_fee_warning'] = 'Enter fee message';
-$_['error_customer_account'] = 'Choose at least one account type';
+$_['error_customer_account'] = 'Set up at least one account type';
 
 // Total Order Discount Entry text
 $_['entry_tab_general'] = 'General Settings';
@@ -32,6 +32,7 @@ $_['entry_tab_lang'] = 'Languages';
 $_['entry_tab_support'] = 'Support';
 
 $_['entry_status'] = 'Status';
+$_['entry_store'] = 'Store';
 $_['entry_customer_account'] = 'Accounts';
 $_['entry_sort_order'] = 'Sort Order';
 $_['entry_base'] = 'Based on';

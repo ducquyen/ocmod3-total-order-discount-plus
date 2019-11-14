@@ -32,6 +32,7 @@ $_['entry_tab_lang'] = 'Языковые параметры';
 $_['entry_tab_support'] = 'Поддержка';
 
 $_['entry_status'] = 'Статус';
+$_['entry_store'] = 'Магазин';
 $_['entry_customer_account'] = 'Учётные записи';
 $_['entry_sort_order'] = 'Порядок сортировки';
 $_['entry_base'] = 'Основание для скидки';

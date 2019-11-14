@@ -19,7 +19,8 @@ Please feel free to contact me through the «Get Support» form or comments on a
 * OCMOD - doesn't change OpenCart core files.
 
 [b]Change log[/b]
-* v3.0 (2019.11.14):
+* v3.1 (2019.11.14):
+-- Added extended multistore support.
 -- Minor code improvements
 * v3.0 (2019.10.06):
 -- Added ability to set target customers type
