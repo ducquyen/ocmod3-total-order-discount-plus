@@ -21,6 +21,8 @@ Please feel free to contact me through the «Get Support» form or comments on O
 * OCMOD - doesn't change OpenCart core files.
 
 ## Change log
+* v3.1 (2019.11.14):
+  * Minor code improvements
 * v3.0 (2019.10.06):
   * Added ability to set target customers type
   * Added ability to set customer group and date range for each discount rate
