@@ -18,10 +18,7 @@ $_['heading_title'] = '[underr] Total Order Discount+';
 
 // Total Order Discount Error text
 $_['error_permission'] = 'Недостатньо прав для управління модулем Total Order Discount+!';
-$_['error_discount_name'] = 'Введіть найменування для знижки';
-$_['error_fee_name'] = 'Введіть найменування для комісії';
-$_['error_discount_warning'] = 'Повідомлення про присутність у корзині товарів зі знижкою';
-$_['error_fee_warning'] = 'Повідомлення про присутність у кошику товарів з додатковою комісією';
+$_['error_text_fields'] = 'Пусті поля були заповнені автоматично! Перевірьте, будь ласка.';
 $_['error_customer_account'] = 'Додайте хоча б один тип облікових записів';
 
 // Total Order Discount Entry text
@@ -44,7 +41,7 @@ $_['entry_value'] = 'Розмір знижки';
 $_['entry_discounts'] = 'Знижки';
 $_['entry_white_list'] = 'Білий список';
 $_['entry_black_list'] = 'Чорний список';
-$_['entry_list_processing'] = 'Обробка списків';
+$_['entry_active_list'] = 'Обробка списків';
 $_['entry_date_start'] = 'Дата початку';
 $_['entry_date_end'] = 'Дата закінчення';
 $_['entry_tax_class'] = 'Податковий клас';
@@ -64,7 +61,7 @@ $_['help_discounts'] = 'Перелік активних знижок та ком
 $_['help_group'] = 'Група клієнтів';
 $_['help_white_list'] = 'Перелік товарних категорій, для яких діють знижки';
 $_['help_black_list'] = 'Перелік товарних категорій, для яких не діють знижки';
-$_['help_list_processing'] = 'Правило обробки переліку товарних категорій';
+$_['help_active_list'] = 'Правило обробки переліку товарних категорій';
 $_['help_tax_class'] = 'Особливий податковий клас для знижок та комісій';
 
 // Total Order Discount main text
@@ -82,7 +79,7 @@ $_['text_subtotal_amount'] = 'Сума (без податків)';
 $_['text_total_amount'] = 'Разом (включаючи податки)';
 $_['text_white_list'] = 'Тільки білий список';
 $_['text_black_list'] = 'Тільки чорний список';
-$_['text_both_list'] = 'Обидва списки';
+$_['text_all_list'] = 'Обидва списки';
 $_['text_discount_name'] = 'Знижка';
 $_['text_fee_name'] = 'Комісія';
 $_['text_discount_warning'] = 'Знижка діє тильки на товари помічені *';

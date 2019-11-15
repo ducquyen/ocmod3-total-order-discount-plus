@@ -18,11 +18,8 @@ $_['heading_title'] = '[underr] Total Order Discount+';
 
 // Total Order Discount+ Error text
 $_['error_permission'] = 'Warning: You do not have permission to modify Total Order Discount+!';
-$_['error_discount_name'] = 'Enter discount name';
-$_['error_fee_name'] = 'Enter fee name';
-$_['error_discount_warning'] = 'Enter discount message';
-$_['error_fee_warning'] = 'Enter fee message';
-$_['error_customer_account'] = 'Set up at least one account type';
+$_['error_text_fields'] = 'Empty text fields was autofilled, please check!';
+$_['error_customer_account'] = 'Set up at least one account type!';
 
 // Total Order Discount Entry text
 $_['entry_tab_general'] = 'General Settings';
@@ -44,7 +41,7 @@ $_['entry_value'] = 'Discount Value';
 $_['entry_discounts'] = 'Discount Rates';
 $_['entry_white_list'] = 'White List';
 $_['entry_black_list'] = 'Black List';
-$_['entry_list_processing'] = 'List processing';
+$_['entry_active_list'] = 'List mode';
 $_['entry_date_start'] = 'Date Start';
 $_['entry_date_end'] = 'Date End';
 $_['entry_tax_class'] = 'Tax Class';
@@ -64,7 +61,7 @@ $_['help_discounts'] = 'Discount and extra charge rate list';
 $_['help_group'] = 'Target customers group';
 $_['help_white_list'] = 'List of product categories allowed to grant discounts and fees';
 $_['help_black_list'] = 'List of product categories disallowed to grant discounts and fees';
-$_['help_list_processing'] = 'The rule for processing product categories list';
+$_['help_active_list'] = 'Rules to processing product categories list';
 $_['help_tax_class'] = 'Particular tax class for discounts and fees';
 
 // Total Order Discount+ main text
@@ -82,7 +79,7 @@ $_['text_subtotal_amount'] = 'Subtotal (before tax/VAT)';
 $_['text_total_amount'] = 'Total (including tax/VAT)';
 $_['text_white_list'] = 'White List only';
 $_['text_black_list'] = 'Black List only';
-$_['text_both_list'] = 'Both';
+$_['text_all_list'] = 'Both lists';
 $_['text_discount_name'] = 'Discount';
 $_['text_fee_name'] = 'Fee';
 $_['text_discount_warning'] = 'Discount applied to items marked with *';

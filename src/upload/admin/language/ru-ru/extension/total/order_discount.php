@@ -18,10 +18,7 @@ $_['heading_title'] = '[underr] Total Order Discount+';
 
 // Total Order Discount Error text
 $_['error_permission'] = 'Недостаточно прав для управления модулем Total Order Discount+!';
-$_['error_discount_name'] = 'Введите наименование для скидки';
-$_['error_fee_name'] = 'Введите наименование для комиссии';
-$_['error_discount_warning'] = 'Сообщение о наличии в корзине товаров со скидкой';
-$_['error_fee_warning'] = 'Сообщение о наличии в корзине товаров с дополнительной комиссией';
+$_['error_text_fields'] = 'Пустые поля были заполнены автоматически! Пожалуйста, проверьте.';
 $_['error_customer_account'] = 'Выберите по крайней мере один тип учётной записи';
 
 // Total Order Discount Entry text
@@ -44,7 +41,7 @@ $_['entry_value'] = 'Значение скидки';
 $_['entry_discounts'] = 'Cкидки';
 $_['entry_white_list'] = 'Белый список';
 $_['entry_black_list'] = 'Чёрный список';
-$_['entry_list_processing'] = 'Обработка списков';
+$_['entry_active_list'] = 'Обработка списков';
 $_['entry_date_start'] = 'Дата начала';
 $_['entry_date_end'] = 'Дата окончания';
 $_['entry_tax_class'] = 'Налоговый класс';
@@ -64,7 +61,7 @@ $_['help_discounts'] = 'Список скидок или комиссий';
 $_['help_group'] = 'Группа клиентов';
 $_['help_white_list'] = 'Список товарных категорий, для которых действуют скидки';
 $_['help_black_list'] = 'Список товарных категорий, которые не активируют скидки и не участвуют в их рассчёте';
-$_['help_list_processing'] = 'Правило обработки списков товарных категорий';
+$_['help_active_list'] = 'Правило обработки списков товарных категорий';
 $_['help_tax_class'] = 'Особый налоговый класс для скидок и комиссий';
 
 // Total Order Discount main text
@@ -82,7 +79,7 @@ $_['text_subtotal_amount'] = 'Сумма (без налогов)';
 $_['text_total_amount'] = 'Итого (включая налоги)';
 $_['text_white_list'] = 'Только белый список';
 $_['text_black_list'] = 'Только чёрный список';
-$_['text_both_list'] = 'Оба списка';
+$_['text_all_list'] = 'Оба списка';
 $_['text_discount_name'] = 'Скидка';
 $_['text_fee_name'] = 'Комиссия';
 $_['text_discount_warning'] = 'Скидка действует на товары помеченные *';
