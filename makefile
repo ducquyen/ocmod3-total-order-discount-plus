@@ -11,7 +11,7 @@
 # <https://github.com/underr-ua/ocmod3-total-order-discount-plus>
 
 zip=$(shell basename `pwd`).ocmod.zip
-doc="README.md CHANGELOG.md EULA.txt"
+doc=README.md CHANGELOG.md EULA.txt"
 datetime=201901010000.00
 src=src
 bin=bin
