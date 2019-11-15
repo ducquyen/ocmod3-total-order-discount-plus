@@ -10,6 +10,7 @@ Please feel free to contact me through the «Get Support» form or comments on O
   * Total price (sums up product prices after tax/VAT).
   * Product quantity in the cart.
 * Unlimited discount rates.
+* Multi-store support with ability to set target store for each discount
 * Percentage or fixed amount discount type.
 * Extra charges (fees) can be used along discounts.
 * Lists of allowed and disallowed product categories.
@@ -18,6 +19,7 @@ Please feel free to contact me through the «Get Support» form or comments on O
 * Date range for each discount rate
 * Customizable warning messages and names for discount and fee (multilanguage).
 * Can set a separate tax class for discounts.
+* Journal 3 compatibility
 * OCMOD - doesn't change OpenCart core files.
 
 ## Change log
